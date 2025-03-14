@@ -1,6 +1,6 @@
 import pandas as pd
 import sqlite3
-
+#learning fetch from remote
 # third time push test
 # fileread = pd.read_excel('chitti_python.xlsx') print(fileread) #used to read the outer excel file
 # dataframe=fileread.iloc[:,1:]#iloc is from pandas (used to print rows, column
