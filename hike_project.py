@@ -43,3 +43,4 @@ for index, row in df.iterrows():
 conn_method.commit()
 cursor_method.close()
 conn_method.close()
+#ertyuioiuytrertyuiuytrewrtyuiug
